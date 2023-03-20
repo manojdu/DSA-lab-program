@@ -1,6 +1,7 @@
 /* Develop and Implement a menu driven Program in C for the following Array Operations a. Creating an Array of N Integer Elements
 b. Design Display of Array Elements with Suitable Headings c. Exit.
-Support the program with functions for each of the above operations. */
+Support the program with functions for each of the above operations.
+program: */
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h> void create();
